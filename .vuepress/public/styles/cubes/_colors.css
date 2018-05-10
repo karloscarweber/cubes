@@ -1,0 +1,22 @@
+/*
+
+   Cubes
+   COLORS
+
+*/
+
+:root {
+  --black-one: #383838;
+  --black-two: #494949;
+  --black-three: #969696;
+  --black-four: #b9b9b9;
+
+  --white-one: #ffffff;
+  --white-two: #f9f9f9;
+  --white-three: #f3f3f3;
+  --white-four: #e4e4e4;
+
+  --cheddar-orange: #ff723a;
+  --cheddar-blue: #198eff;
+  --cheddar-yellow: #ffe33a;
+}

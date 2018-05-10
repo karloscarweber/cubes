@@ -1,0 +1,86 @@
+/*
+
+   Cubes
+   Text Colors & Backgrounds
+
+   Skins
+
+*/
+
+/* Text colors */
+
+.black-one {
+  color: var(--black-one);
+}
+.black-two {
+  color: var(--black-two);
+}
+.black-three {
+  color: var(--black-three);
+}
+.black-four {
+  color: var(--black-four);
+}
+
+.white-one {
+  color: var(--white-one);
+}
+.white-two {
+  color: var(--white-two);
+}
+.white-three {
+  color: var(--white-three);
+}
+.white-four {
+  color: var(--white-four);
+}
+
+.cheddar-orange {
+  color: var(--cheddar-orange);
+}
+.cheddar-blue {
+  color: var(--cheddar-blue);
+}
+.cheddar-yellow {
+  color: var(--cheddar-yellow);
+}
+
+/* Background */
+
+.bg-black-one {
+  background-color: var(--black-one);
+}
+.bg-black-two {
+  background-color: var(--black-two);
+}
+.bg-black-three {
+  background-color: var(--black-three);
+}
+.bg-black-four {
+  background-color: var(--black-four);
+}
+
+.bg-white-one {
+  background-color: var(--white-one);
+}
+.bg-white-two {
+  background-color: var(--white-two);
+}
+.bg-white-three {
+  background-color: var(--white-three);
+}
+.bg-white-four {
+  background-color: var(--white-four);
+}
+
+/* Background colors */
+
+.bg-cheddar-orange {
+  background-color: var(--cheddar-orange);
+}
+.bg-cheddar-blue {
+  background-color: var(--cheddar-blue);
+}
+.bg-cheddar-yellow {
+  background-color: var(--cheddar-yellow);
+}
